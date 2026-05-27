@@ -1,46 +1,77 @@
-#Hey 👋, I'm Esrat!
-Software Engineering Student | Problem Solver | Creative Tech Enthusiast
+# Hey, I'm Esrat
+
+### Software Engineering Student | Problem Solver | Creative Tech Enthusiast
+
+---
 
 ## About Me
 
-* BSc student in Software Engineering at Daffodil International University
-* Passionate about problem solving and continuous learning
-* Skilled in balancing academics and coding development
-* Experienced in leading university project teams
-* Active in volunteering and collaborative activities
-* Running a student support page for exam preparation and academic help
+- BSc in Software Engineering at Daffodil International University
+- Passionate about coding, problem solving, and continuous learning
+- Exploring software development, OOP, and real-world projects
+- Experienced in teamwork, collaboration, and leading university project teams
+- Running a student support platform for exam preparation and academic guidance
+- Always learning new technologies and improving development skills
 
-#Skills 
+---
 
-* C
-* C++
-* Python
-* Java
-* Object-Oriented Programming (OOP)
-* HTML
-* MS Word
-* PowerPoint
-* Canva
+## Skills
+
+### Programming Languages
+- C
+- C++
+- Python
+- Java
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Data Structures & Algorithms
+
+### Web & Tools
+- HTML
+- MS Word
+- PowerPoint
+- Canva
+
+---
 
 ## Projects
 
-* University Management System (Java)
-* SuperMarket Billing System (Java)
-* Employee Management System (C)
-* Python Projects
-* C Programming Projects
+### Java Projects
+- University Management System
+- SuperMarket Billing System
 
-#Hobbies 
-* Traveling 
-* Photography 
-* Exploring New Foods 
+### C Projects
+- Employee Management System
+- Various C Programming Projects
 
-#Interests 
-* Problem Solving
-* Team Leadership
-* Creative Development
-* Learning New Skills
+### Python Projects
 
-#Connect With Me 
-LinkedIn: https://linkedin.com/in/www.linkedin.com/in/esratjhahann
-GitHub: https://github.com/es-ratt
+---
+
+## Interests
+
+- Problem Solving
+- Team Leadership
+- Creative Development
+- Learning New Technologies
+
+---
+
+## Hobbies
+
+- Traveling
+- Photography
+- Exploring New Foods
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/es-ratt
+- LinkedIn: https://linkedin.com/in/esratjhahann
+
+---
+
+*"Code. Learn. Build. Repeat."*
