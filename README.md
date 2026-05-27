@@ -1,16 +1,46 @@
-## Hi there 👋
+#Hey 👋, I'm Esrat!
+Software Engineering Student | Problem Solver | Creative Tech Enthusiast
 
-<!--
-**es-ratt/es-ratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* BSc student in Software Engineering at Daffodil International University
+* Passionate about problem solving and continuous learning
+* Skilled in balancing academics and coding development
+* Experienced in leading university project teams
+* Active in volunteering and collaborative activities
+* Running a student support page for exam preparation and academic help
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills 
+
+* C
+* C++
+* Python
+* Java
+* Object-Oriented Programming (OOP)
+* HTML
+* MS Word
+* PowerPoint
+* Canva
+
+## Projects
+
+* University Management System (Java)
+* SuperMarket Billing System (Java)
+* Employee Management System (C)
+* Python Projects
+* C Programming Projects
+
+#Hobbies 
+* Traveling 
+* Photography 
+* Exploring New Foods 
+
+#Interests 
+* Problem Solving
+* Team Leadership
+* Creative Development
+* Learning New Skills
+
+#Connect With Me 
+LinkedIn: https://linkedin.com/in/www.linkedin.com/in/esratjhahann
+GitHub: https://github.com/es-ratt
