@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="assets/monitor.svg" alt="Hi, I'm Esrat. Software Engineering student at Daffodil International University, founder at Codemic." width="720" />
-
-<p>
-  Software Engineering student at <b>Daffodil International University</b><br/>
-  Founder at <a href="https://www.linkedin.com/company/codemicltd/"><b>Codemic</b></a>
-</p>
+<img src="assets/monitor.svg" alt="Hi, I'm Esrat" width="720" />
 
 <a href="https://www.linkedin.com/in/esratjhahann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/profile.php?id=61583359276476"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -40,10 +35,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=es-ratt&show_icons=true&hide_border=true&bg_color=0a090d&title_color=ff6f9d&icon_color=ff6f9d&text_color=f6c9d8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-ratt&layout=compact&hide_border=true&bg_color=0a090d&title_color=ff6f9d&text_color=f6c9d8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=es-ratt&hide_border=true&background=0a090d&ring=ff6f9d&fire=ff6f9d&currStreakNum=f6c9d8&sideNums=f6c9d8&currStreakLabel=ff8fb1&sideLabels=ff8fb1&dates=8a8592" alt="GitHub streak" />
+<img src="assets/stats.svg" width="380" height="170" alt="GitHub stats" />
+<img src="assets/languages.svg" width="380" height="170" alt="Top languages" />
 
 </div>
 

@@ -1,4 +1,4 @@
-name: Update repo counter
+name: Update profile cards
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "scripts/generate_counter.py"
+      - "scripts/**"
       - ".github/workflows/update-repo-counter.yml"
 
 permissions:
@@ -19,14 +19,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build counter SVG
+      - name: Build cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate_counter.py
+        run: |
+          python3 scripts/generate_counter.py
+          python3 scripts/generate_stats.py
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/repo-counter.svg
-          git diff --cached --quiet || (git commit -m "chore: update repo counter" && git push)
+          git add assets/repo-counter.svg assets/stats.svg assets/languages.svg
+          git diff --cached --quiet || (git commit -m "chore: update profile cards" && git push)
