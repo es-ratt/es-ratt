@@ -3,14 +3,12 @@
 <img src="assets/monitor.svg" alt="Hi, I'm Esrat. Software Engineering student at Daffodil International University, founder at Codemic." width="720" />
 
 <p>
-  🎓 Software Engineering student at <b>Daffodil International University</b><br/>
-  🚀 Founder at <a href="https://www.linkedin.com/company/codemicltd/"><b>Codemic</b></a>
+  Software Engineering student at <b>Daffodil International University</b><br/>
+  Founder at <a href="https://www.linkedin.com/company/codemicltd/"><b>Codemic</b></a>
 </p>
 
 <a href="https://www.linkedin.com/in/esratjhahann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/profile.php?id=61583359276476"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://github.com/es-ratt"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/company/codemicltd/"><img src="https://img.shields.io/badge/Codemic-Founder-ff6f9d?style=for-the-badge" alt="Codemic" /></a>
 
 <br/><br/>
 
@@ -30,16 +28,11 @@
 
 **Core Concepts**
 
-<img src="assets/icons/oop.svg" width="48" height="48" alt="Object-Oriented Programming (OOP)" />
-<img src="assets/icons/problem-solving.svg" width="48" height="48" alt="Problem Solving" />
-<img src="assets/icons/dsa.svg" width="48" height="48" alt="Data Structures and Algorithms" />
+<img src="assets/skills-concepts.svg" width="164" height="48" alt="Object-Oriented Programming (OOP), Problem Solving, Data Structures and Algorithms" />
 
 **Web & Tools**
 
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<img src="assets/icons/word.svg" width="48" height="48" alt="MS Word" />
-<img src="assets/icons/powerpoint.svg" width="48" height="48" alt="PowerPoint" />
-<img src="assets/icons/canva.svg" width="48" height="48" alt="Canva" />
+<img src="assets/skills-web.svg" width="222" height="48" alt="HTML, MS Word, PowerPoint, Canva" />
 
 <br/>
 
@@ -61,14 +54,14 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>🌐 ejn website</b><br/>
+      <b>ejn website</b><br/>
       <a href="https://ejn-website.netlify.app">ejn-website.netlify.app</a>
     </td>
     <td align="center" width="33%">
-      <b>📅 Student Study Planner</b>
+      <b>Student Study Planner</b>
     </td>
     <td align="center" width="33%">
-      <b>🛒 SuperMarket Billing System</b>
+      <b>SuperMarket Billing System</b>
     </td>
   </tr>
 </table>
