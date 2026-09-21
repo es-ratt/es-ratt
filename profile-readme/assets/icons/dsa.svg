@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Data Structures and Algorithms">
-  <rect width="48" height="48" rx="10" fill="#242938"/>
-  <g stroke="#34D399" stroke-width="2" fill="none"><path d="M24 13L14 26M24 13L34 26M14 26L9 37M14 26L19 37M34 26L29 37M34 26L39 37"/></g>
-  <g fill="#34D399"><circle cx="24" cy="12" r="4.5"/><circle cx="14" cy="26" r="4"/><circle cx="34" cy="26" r="4"/><circle cx="9" cy="37" r="3.2"/><circle cx="19" cy="37" r="3.2"/><circle cx="29" cy="37" r="3.2"/><circle cx="39" cy="37" r="3.2"/></g>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Problem Solving">
-  <rect width="48" height="48" rx="10" fill="#242938"/>
-  <circle cx="24" cy="21" r="9" fill="#FBBF24"/>
-  <path d="M20 28h8v4h-8z" fill="#FBBF24"/>
-  <rect x="20" y="34" width="8" height="3" rx="1.5" fill="#FBBF24"/>
-  <g stroke="#FBBF24" stroke-width="2" stroke-linecap="round"><path d="M24 6v3M11 12l2 2M37 12l-2 2M7 22h3M38 22h3"/></g>
-</svg>
