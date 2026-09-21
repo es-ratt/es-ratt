@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Esrat 👋</h1>
+   <p align="center">
+     <img src="assets/banner.png" alt="Esrat's banner" width="380" />
+   </p>
+
+   <h1 align="center">Hey, I'm Esrat 👋</h1>
 
 <p align="center">
   <b>Software Engineering Student @ Daffodil International University</b><br>
