@@ -1,11 +1,17 @@
-   <p align="center">
-     <img src="assets/banner.png" alt="Esrat's banner" width="380" />
-   </p>
+<p align="center">
+  <img src="assets/banner.png" alt="Esrat's banner" width="380" />
+</p>
 
-   <h1 align="center">Hey, I'm Esrat 👋</h1>
+<h1 align="center">Hey, I'm Esrat 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student @ Daffodil International University</b><br>
+  <a href="https://github.com/es-ratt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Problem+Solver;Creative+Tech+Enthusiast;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>BSc in Software Engineering @ Daffodil International University</b><br>
   Building Java & C projects · Learning web development · Solving problems
 </p>
 
@@ -14,6 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Savar%2C%20Dhaka-informational?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=es-ratt&label=Profile+Views&color=f75c7e&style=for-the-badge" />
 </p>
 
 ---
@@ -55,7 +62,6 @@
 | [Student Study Planner](https://github.com/es-ratt/student-study-planner) | Web-based academic assistant for tracking courses, assignments, study schedules and exam deadlines | HTML |
 | [Java SuperMarket Billing System](https://github.com/es-ratt/Java-SuperMarket-Billing-System) | Console app with login, product management, cart and sales reports | Java, OOP, File Handling |
 | [Employee Management System](https://github.com/es-ratt/Employee-Management-System-C) | Employee records management with file handling and structured data | C |
-| [University Management System](https://github.com/es-ratt/REPO-NAME-HERE) | Java based university management project | Java, OOP |
 | [Python Projects](https://github.com/es-ratt/Python-Projects) | Small practical projects to learn Python | Python |
 
 ---
