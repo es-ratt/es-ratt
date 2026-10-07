@@ -11,7 +11,7 @@
   <rect x="20" y="20" width="8" height="8" fill="#ff6f9d" shape-rendering="crispEdges"/>
   <text x="36" y="28" font-size="15" font-weight="700" fill="#ff8fb1">github stats</text>
   <text x="20" y="66" font-size="13" fill="#f6c9d8">public repos</text>
-  <text x="360" y="66" text-anchor="end" font-size="16" font-weight="700" fill="#7fe8c0">27</text>
+  <text x="360" y="66" text-anchor="end" font-size="16" font-weight="700" fill="#7fe8c0">28</text>
   <rect x="20" y="75" width="340" height="1" fill="#2b2733"/>
   <text x="20" y="92" font-size="13" fill="#f6c9d8">stars earned</text>
   <text x="360" y="92" text-anchor="end" font-size="16" font-weight="700" fill="#7fe8c0">1</text>

@@ -12,12 +12,12 @@
   <text x="36" y="28" font-size="15" font-weight="700" fill="#ff8fb1">top languages</text>
   <text x="20" y="62" font-size="13" fill="#f6c9d8">TypeScript</text>
   <rect x="130" y="52" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
-  <rect x="130" y="52" width="118" height="10" fill="#ff6f9d" shape-rendering="crispEdges"/>
-  <text x="360" y="62" text-anchor="end" font-size="12" fill="#8a8592">69%</text>
+  <rect x="130" y="52" width="115" height="10" fill="#ff6f9d" shape-rendering="crispEdges"/>
+  <text x="360" y="62" text-anchor="end" font-size="12" fill="#8a8592">68%</text>
   <text x="20" y="84" font-size="13" fill="#f6c9d8">HTML</text>
   <rect x="130" y="74" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
-  <rect x="130" y="74" width="29" height="10" fill="#7fe8c0" shape-rendering="crispEdges"/>
-  <text x="360" y="84" text-anchor="end" font-size="12" fill="#8a8592">17%</text>
+  <rect x="130" y="74" width="32" height="10" fill="#7fe8c0" shape-rendering="crispEdges"/>
+  <text x="360" y="84" text-anchor="end" font-size="12" fill="#8a8592">19%</text>
   <text x="20" y="106" font-size="13" fill="#f6c9d8">JavaScript</text>
   <rect x="130" y="96" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
   <rect x="130" y="96" width="12" height="10" fill="#ffa3c1" shape-rendering="crispEdges"/>
