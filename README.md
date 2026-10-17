@@ -1,16 +1,25 @@
-<h1 align="center">Hey, I'm Esrat</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Student | CEO @ Codemic | Problem Solver | Creative Tech Enthusiast</b>
-</p>
+<img src="assets/monitor.svg" alt="Hi, I'm Esrat" width="720" />
 
-<p align="center">
-  <a href="https://es-ratt.github.io"><img src="https://img.shields.io/badge/Portfolio-es--ratt.github.io-6c5ce7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/esratjhahann"><img src="https://img.shields.io/badge/LinkedIn-esratjhahann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:esratjhahan0.in@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<b>Software Engineering Student | CEO @ Codemic | Problem Solver | Creative Tech Enthusiast</b>
 
----
+<br/><br/>
+
+<a href="https://es-ratt.github.io"><img src="https://img.shields.io/badge/Portfolio-es--ratt.github.io-6c5ce7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/esratjhahann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/profile.php?id=61583359276476"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:esratjhahan0.in@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="assets/repo-counter.svg" alt="Public repositories counter" width="360" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=es-ratt&label=Profile%20views&color=ff6f9d&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<br/>
 
 ## About Me
 
@@ -21,11 +30,11 @@
 - Love joining hackathons and competitions to build fast and learn faster
 - Experienced in teamwork, collaboration and leading university project teams
 
----
+<br/>
 
 ## Skills
 
-### Programming Languages
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -33,19 +42,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Core Concepts
+**Core Concepts**
 
 - Object-Oriented Programming (OOP)
 - Problem Solving
 - Data Structures & Algorithms
 
-### Web Dev
+**Web Dev**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Deployment
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -54,13 +63,28 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
-### Other Tools
+**Other Tools**
 
 - Canva
 - MS Word
 - PowerPoint
 
----
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=es-ratt&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-ratt&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=es-ratt&theme=radical&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
 
 ## Projects
 
@@ -83,20 +107,7 @@
 - Java: University Management System, SuperMarket Billing System
 - C: Employee Management System and various C programming projects
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=es-ratt&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-ratt&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=es-ratt&theme=radical&hide_border=true" />
-</p>
-
----
+<br/>
 
 ## Interests
 
@@ -112,6 +123,8 @@
 - Photography
 - Exploring New Foods
 
----
+<br/>
 
 <p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f9d&height=90&section=footer" width="100%" alt="" />
