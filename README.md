@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/monitor.svg" alt="Hi, I'm Esrat" width="720" />
+<img src="assets/monitor.svg" alt="Hello, I'm Esrat" width="720" />
 
 <b>Software Engineering Student | CEO @ Codemic | Problem Solver | Creative Tech Enthusiast</b>
 
@@ -23,8 +23,8 @@
 
 ## About Me
 
-- BSc in Software Engineering at Daffodil International University (SWE-43)
-- CEO @ Codemic, a Bangla-language programming education platform
+- BSc in Software Engineering at Daffodil International University
+- CEO @ Codemic, a programming education platform
 - Built the EJN Website, a study resource hub for DIU SWE students
 - Always curious about learning new things and solving problems
 - Love joining hackathons and competitions to build fast and learn faster
@@ -94,11 +94,8 @@
 | ------- | ---------- | ----- |
 | **Codemic Website** | Bangla-language C programming education platform | [Live](https://codemicltd.netlify.app/) |
 | **Codemic LMS** | Student dashboard for Codemic: courses, assignments, contests, leaderboard (in progress) | Coming soon |
-| **EarthTwin** (Team PLANEX) | NASA Space Apps entry that finds Earth analogs for Moon base and Mars sites | Coming soon |
 | **EJN Website** | Study resource hub for DIU SWE students | [Live](https://ejn-website.netlify.app/) |
 | **Student Study Planner** | Task tracking, study planner, exam reminders, Pomodoro, GPA calculator | [Live](https://es-ratt.github.io/student-study-planner) · [Repo](https://github.com/es-ratt/student-study-planner) |
-| **Food Axis** | Restaurant operations platform (system analysis & design capstone) | Coming soon |
-| **VESTIS (Digital Closet)** | Single-file app to organize clothes and generate random outfits | Coming soon |
 | **Task API** | Node.js CRUD API with 3-layer architecture and Dockerized Postgres | [Repo](https://github.com/es-ratt/task-api-layered-architecture) |
 | **FlyRank Image Relevance** | Image relevance and auto-tagging full-stack capstone app | [Repo](https://github.com/es-ratt/flyrank-capstone-image-relevance) |
 
