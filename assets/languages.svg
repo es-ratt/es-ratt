@@ -24,7 +24,7 @@
   <text x="360" y="106" text-anchor="end" font-size="12" fill="#8a8592">9%</text>
   <text x="20" y="128" font-size="13" fill="#f6c9d8">Python</text>
   <rect x="130" y="118" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
-  <rect x="130" y="118" width="13" height="10" fill="#c9a7ff" shape-rendering="crispEdges"/>
+  <rect x="130" y="118" width="12" height="10" fill="#c9a7ff" shape-rendering="crispEdges"/>
   <text x="360" y="128" text-anchor="end" font-size="12" fill="#8a8592">7%</text>
   <text x="20" y="150" font-size="13" fill="#f6c9d8">CSS</text>
   <rect x="130" y="140" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
