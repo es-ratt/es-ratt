@@ -16,8 +16,8 @@
   <text x="360" y="62" text-anchor="end" font-size="12" fill="#8a8592">63%</text>
   <text x="20" y="84" font-size="13" fill="#f6c9d8">HTML</text>
   <rect x="130" y="74" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
-  <rect x="130" y="74" width="26" height="10" fill="#7fe8c0" shape-rendering="crispEdges"/>
-  <text x="360" y="84" text-anchor="end" font-size="12" fill="#8a8592">15%</text>
+  <rect x="130" y="74" width="27" height="10" fill="#7fe8c0" shape-rendering="crispEdges"/>
+  <text x="360" y="84" text-anchor="end" font-size="12" fill="#8a8592">16%</text>
   <text x="20" y="106" font-size="13" fill="#f6c9d8">Python</text>
   <rect x="130" y="96" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
   <rect x="130" y="96" width="17" height="10" fill="#ffa3c1" shape-rendering="crispEdges"/>
