@@ -20,7 +20,7 @@
   <text x="360" y="84" text-anchor="end" font-size="12" fill="#8a8592">14%</text>
   <text x="20" y="106" font-size="13" fill="#f6c9d8">Python</text>
   <rect x="130" y="96" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
-  <rect x="130" y="96" width="22" height="10" fill="#ffa3c1" shape-rendering="crispEdges"/>
+  <rect x="130" y="96" width="23" height="10" fill="#ffa3c1" shape-rendering="crispEdges"/>
   <text x="360" y="106" text-anchor="end" font-size="12" fill="#8a8592">13%</text>
   <text x="20" y="128" font-size="13" fill="#f6c9d8">JavaScript</text>
   <rect x="130" y="118" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
@@ -29,5 +29,5 @@
   <text x="20" y="150" font-size="13" fill="#f6c9d8">CSS</text>
   <rect x="130" y="140" width="170" height="10" fill="#2b0f1f" shape-rendering="crispEdges"/>
   <rect x="130" y="140" width="4" height="10" fill="#ffd08a" shape-rendering="crispEdges"/>
-  <text x="360" y="150" text-anchor="end" font-size="12" fill="#8a8592">3%</text>
+  <text x="360" y="150" text-anchor="end" font-size="12" fill="#8a8592">2%</text>
 </svg>
